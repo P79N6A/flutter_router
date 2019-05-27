@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/flutter_router/ios/Classes/FlutterRouterPlugin.h

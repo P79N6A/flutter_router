@@ -1,0 +1,4 @@
+#Thu Mar 14 15:46:39 CST 2019
+base.0=/Users/botao/Desktop/damai/ticket3.0/flutter_router/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
